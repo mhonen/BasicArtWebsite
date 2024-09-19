@@ -1,0 +1,57 @@
+.header-image {
+    height: 150px;
+    display:block;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50%;
+}
+
+.main-title h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    position: absolute;
+    top: -4%;
+    left: 25%;
+    text-align: center;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.brushes h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.frames h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.paint h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.product-images #prices {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
